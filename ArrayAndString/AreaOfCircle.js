@@ -1,4 +1,4 @@
-// ! 50. Find Area of a circle
+// ! 52. Find Area of a circle
 
 function circleArea(radius) {
   let area = Math.PI * (radius * radius);

@@ -1,4 +1,4 @@
-//! 52. program to find the LCM of two integers
+//! 53. program to find the LCM of two integers
 
 const num1 = prompt("Enter a first positive integer: ");
 const num2 = prompt("Enter a second positive integer: ");

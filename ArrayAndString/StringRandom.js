@@ -1,4 +1,4 @@
-//! 53. generate random strings
+//! 54. generate random strings
 
 const characters =
   "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";

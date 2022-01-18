@@ -1,3 +1,5 @@
+//! 50. json
+
 var obj = [
   {
     name: "Rupali",
@@ -14,13 +16,13 @@ var obj = [
 ];
 console.log(obj);
 
-// obj[1].name = "vishal";
-// console.log(obj[1]);
+obj[1].name = "vishal";
+console.log(obj[1]);
 
-// let a = obj.filter((val, ind) => {
-//   if (val.name == "prathap") return val;
-// });
-// console.log(a);
+let a = obj.filter((val, ind) => {
+  if (val.name == "prathap") return val;
+});
+console.log(a);
 
 delete obj[0];
 console.log(obj);

@@ -1,4 +1,4 @@
-//! 55. Convert Number into hour and time
+//! 57. Convert Number into hour and time
 
 function time_convert(num) {
   var hours = Math.floor(num / 60);
